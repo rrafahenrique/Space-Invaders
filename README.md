@@ -18,6 +18,7 @@
  - Elimine todos os Aliens para vencer.
 
  # Funcionalidade
- - Efeito sonoro. 
+ - Efeito sonoro.
 
+ # Imagens
  ![Imagem do Jogo](https://user-images.githubusercontent.com/115511374/196170717-60742732-c9c2-4110-9f11-c06141dc5d92.png)
