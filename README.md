@@ -9,7 +9,7 @@
  # Linguagens e Tecnologias Usadas
  - Linguagem: Python 3.10
  - Biblioteca: Pygame 2.1.1
- - Programação Orienta a Objeto (POO)
+ - Programação Orientada a Objeto (POO)
 
  # Gameplay
  - O jogo inicia depois de uma contagem regressiva de 3 segundos;
