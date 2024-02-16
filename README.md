@@ -4,7 +4,7 @@
 ![Badge Licença](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
  # Introdução
- O objetivo deste projeto foi fazer uma versão do clássico jogo Space Invaders em Python. Neste projeto já fui utilizado Classes e o conceito de Programação Orienta a Objetos (POO) permitindo estruturar o cógido de maneira mais legível e melhor manutenção.
+ O objetivo deste projeto foi fazer uma versão do clássico jogo Space Invaders em Python. Neste projeto foi utilizado Classes e o conceito de Programação Orienta a Objetos (POO) permitindo estruturar o cógido de maneira mais legível e melhor manutenção para o futuro.
 
  # Linguagens e Tecnologias Usadas
  - Linguagem: Python 3.10
